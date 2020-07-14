@@ -5,7 +5,7 @@
 - 📫 How to reach me: **zariman.razari@gmail.com** or **tr32010@gmail.com**
 - 💼 **I'm open for hiring**
 
-###Social
+### Social
 - [Uplabs](https://www.uplabs.com/shiburagi)
 - [Linkedin](https://www.linkedin.com/in/zariman/)
 
