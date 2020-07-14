@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- Flutter | Android | ReactJs
+- 🔭 I’m currently working on [POS Ordering App](https://github.com/shiburagi/ordering_app)
+
 <!--
 **shiburagi/shiburagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
