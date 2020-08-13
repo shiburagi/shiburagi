@@ -6,9 +6,11 @@
 - 💼 **I'm open for hiring**
 
 ### Social
-- [Uplabs](https://www.uplabs.com/shiburagi)
-- [Linkedin](https://www.linkedin.com/in/zariman/)
-- [CodinGame](https://www.codingame.com/profile/30b47b887a0f8e7913c8f974e99014326025093)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3uTcnJHxN0eW0vWpost_TM6VBsaUqCd9i2EwB4SPq0TnV6EmiaIp2KVlPBaw&s" height="20px"/>  [Uplabs](https://www.uplabs.com/shiburagi)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaI9R6PTC0825sYXNIwmtkMNnzZCvYojwtNbFIbqwUXlkkUyAnrDGyi1MHVXM&s" height="20px"/>  [Linkedin](https://www.linkedin.com/in/zariman/)
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbwcydZvyIP0B4LVdOy20dSdOaaxrHFEIFSBioLc2GDROHQSV1ubHLTKzGKg&s" height="20px"/> [CodinGame](https://www.codingame.com/profile/30b47b887a0f8e7913c8f974e99014326025093)
 <!--
 **shiburagi/shiburagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
