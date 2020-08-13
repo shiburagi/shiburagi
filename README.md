@@ -8,7 +8,7 @@
 ### Social
 - [Uplabs](https://www.uplabs.com/shiburagi)
 - [Linkedin](https://www.linkedin.com/in/zariman/)
-
+- [CodinGame](https://www.codingame.com/profile/30b47b887a0f8e7913c8f974e99014326025093)
 <!--
 **shiburagi/shiburagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
