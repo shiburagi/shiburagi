@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **[POS Ordering App](https://github.com/shiburagi/ordering_app)**
 - 📫 How to reach me: **zariman.razari@gmail.com** or **tr32010@gmail.com**
-- 💼 **I'm open for hiring**
-
+<!-- - 💼 **I'm open for hiring**
+ -->
 ![Shiburagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiburagi&&count_private=true)
 ### Website 
 https://zariman.dev
