@@ -5,7 +5,8 @@
 - 📫 How to reach me: **zariman.razari@gmail.com** or **tr32010@gmail.com**
 <!-- - 💼 **I'm open for hiring**
  -->
-![Shiburagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiburagi&&count_private=true)
+![Shiburagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiburagi&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
 ### Website 
 https://zariman.dev
 
